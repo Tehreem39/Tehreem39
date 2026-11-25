@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tehreem
 
-<!--
-**Tehreem39/Tehreem39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about technology, programming, and problem-solving. I'm continuously learning new skills and working on projects to improve my development abilities.
+
+### 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Interested in Software Development and IT
+- 🌱 Currently improving my programming and technical skills
+- 🔍 Exploring Artificial Intelligence and Cybersecurity
+- 🎯 Goal: Become a skilled IT professional
+
+### 🛠️ Technologies & Skills
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+### 📂 My Projects
+I use this GitHub account to share my academic projects, programming practice, and personal learning projects.
+
+### 📫 Connect With Me
+- GitHub: [Tehreem39](https://github.com/Tehreem39)
+
+---
+
+⭐ Thanks for visiting my profile!
